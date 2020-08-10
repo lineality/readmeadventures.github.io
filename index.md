@@ -6,7 +6,7 @@
 ## Dungeon of Scrolls (Learn Natural Language Processing)
 [Scene 1](https://raw.githubusercontent.com/lineality/ReadMe_Adventures/master/Learn_NLP__Dungeon_of_Scrolls/scene_1/ReadMe.txt)  
 [Scene 2](https://raw.githubusercontent.com/lineality/ReadMe_Adventures/master/Learn_NLP__Dungeon_of_Scrolls/scene_2/ReadMe.txt)  
-[All Adventure Files](https://github.com/lineality/ReadMe_Adventures/tree/master/Learn_NLP__Dungeon_of_Scrolls)  
+[All Scenes](https://github.com/lineality/ReadMe_Adventures/tree/master/Learn_NLP__Dungeon_of_Scrolls)  
 
 
 

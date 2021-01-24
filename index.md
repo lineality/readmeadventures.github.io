@@ -24,6 +24,7 @@
 [Scene 4 ReadMe.txt](https://raw.githubusercontent.com/lineality/ReadMe_Adventures/master/Learn_NLP__Dungeon_of_Scrolls/scene_04/ReadMe.txt)  
 [Scene 5 ReadMe.txt](https://raw.githubusercontent.com/lineality/ReadMe_Adventures/master/Learn_NLP__Dungeon_of_Scrolls/scene_05/ReadMe.txt)  
 [Scene 6 ReadMe.txt](https://raw.githubusercontent.com/lineality/ReadMe_Adventures/master/Learn_NLP__Dungeon_of_Scrolls/scene_06/ReadMe.txt)  
+[Scene 7 ReadMe.txt](https://raw.githubusercontent.com/lineality/ReadMe_Adventures/master/Learn_NLP__Dungeon_of_Scrolls/scene_07/ReadMe.txt)  
 [All Scenes](https://github.com/lineality/ReadMe_Adventures/tree/master/Learn_NLP__Dungeon_of_Scrolls)  
 
 
